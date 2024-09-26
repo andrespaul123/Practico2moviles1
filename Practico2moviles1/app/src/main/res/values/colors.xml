@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+        <color name="colorCuerpoSerpiente">#00FF00</color> <!-- Verde -->
+        <color name="colorCabezaSerpiente">#FF0000</color> <!-- Rojo -->
+        <color name="colorComida">#FFFF00</color> <!-- Amarillo -->
+
+</resources>
